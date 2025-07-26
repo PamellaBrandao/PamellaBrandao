@@ -29,7 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamella-lima-brandão)  
 
-[![Gmail](https://img.shields.io/badge/pamellabranda54o@gmail.com-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pamellabrandao54@gmail.com)
+[![Gmail](https://img.shields.io/badge/pamellabrandao54@gmail.com-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pamellabrandao54@gmail.com)
 
 ---
 
