@@ -5,7 +5,7 @@
 
 ## 🌷 Sobre mim
 
-✨ 18 anos
+✨ 19 anos
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📍Universidade Paulista Campus Paulista
 
